@@ -1,1 +1,3 @@
 My first neural network with memristor
+
+Try to change something
