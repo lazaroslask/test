@@ -3,3 +3,5 @@ My second file
 A new line
 
 Third line
+
+Forth line
