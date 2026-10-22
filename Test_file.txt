@@ -3,3 +3,5 @@ My first neural network with memristor
 Try to change something
 
 new line added here
+
+7 line
